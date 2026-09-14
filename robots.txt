@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brechodenovo.com.br/sitemap.xml
